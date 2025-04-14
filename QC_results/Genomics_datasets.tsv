@@ -1,0 +1,175 @@
+Dataset title	Dataset status	EMODnet QC check passed and DwC standards of EMODnet followed (Y/N)? yes = ready for harvest	Date ready for harvest (i.e. when column B = yes)	EMODnet dataset url (when published)	Url	GBIF url	OBIS url	Publisher
+Marine v2.0 catalogue					https://www.ebi.ac.uk/metagenomics/genome-catalogues/marine-v2-0	ΝΑ	ΝΑ	MGnify
+ARMS Jeddah sample Raw sequence reads	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA308164	ΝΑ	ΝΑ	ENA
+ARMS Jeddah sample Raw sequence reads	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00004404 	https://www.gbif.org/dataset/7bb358e4-6067-42f1-a3e3-7471dd854ce0	ΝΑ	MGnify
+Data from water, plankton and ARMS samples	Dataset published in GBIF by the University of Gothenburg	QC check not passed	No		https://www.ebi.ac.uk/ena/browser/view/PRJEB60147	https://www.gbif.se/ipt/resource?r=gu-2022-wallhamn-coi	ΝΑ	ENA/SBDI ASV portal
+Data from water, plankton and ARMS samples	Dataset published in GBIF by the University of Gothenburg	QC check not passed	No		https://www.ebi.ac.uk/ena/browser/view/PRJEB60147	https://www.gbif.se/ipt/resource?r=gu-2022-wallhamn-18s	ΝΑ	ENA/SBDI ASV portal
+eDNA data collected in Suva, Fiji by the PacMAN project	Dataset published in OBIS by the Southwestern Pacific OBIS Node - https://nzobisipt.niwa.co.nz/resource?r=pacman_suva_edna	QC check not passed	No		ΝΑ	ΝΑ	https://obis.org/dataset/bbc947ad-48c0-4235-8398-3c92f0fc994a	OBIS
+Amplicon sequencing of Tara Oceans DNA samples corresponding to size fractions for protists.	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB6610	ΝΑ	ΝΑ	ENA
+Amplicon sequencing of Tara Oceans DNA samples corresponding to size fractions for protists.	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00002392	https://www.gbif.org/dataset/d596fccb-2319-42eb-b13b-986c932780ad	ΝΑ	MGnify
+EMOSE (2017) Inter-Comparison of Marine Plankton Metagenome Analysis Methods	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB87662	ΝΑ	ΝΑ	ENA
+EMOSE (2017) Inter-Comparison of Marine Plankton Metagenome Analysis Methods	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00001935	https://www.gbif.org/dataset/20b968fd-b7e0-4002-9136-1ccfa8e5b9df	ΝΑ	MGnify
+Ocean Sampling Day (OSD) 2014: AUTHORITY-RAW amplicon and metagenome sequencing study from the June solstice in the year 2014	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB8682	ΝΑ	ΝΑ	ENA
+Ocean Sampling Day (OSD) 2014: AUTHORITY-RAW amplicon and metagenome sequencing study from the June solstice in the year 2014	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00000462	https://www.gbif.org/dataset/f6da16a0-ad5a-4f47-a347-aa6281de3d0d	ΝΑ	MGnify
+Ocean Sampling Day (OSD) data from North Adriatic Sea	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB34543	ΝΑ	ΝΑ	ENA
+Ocean Sampling Day (OSD) data from North Adriatic Sea					https://www.ebi.ac.uk/metagenomics/studies/MGYS00005123	ΝΑ	ΝΑ	MGnify
+16S rRNA amplicon sequencing from the Ocean Sampling Day (OSD) campaign June 2018	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB40757	ΝΑ	ΝΑ	ENA
+16S rRNA amplicon sequencing from the Ocean Sampling Day (OSD) campaign June 2018					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006608	ΝΑ	ΝΑ	MGnify
+16S rRNA amplicon sequencing from the Ocean Sampling Day (OSD) campaign June 2019	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB40762	ΝΑ	ΝΑ	ENA
+16S rRNA amplicon sequencing from the Ocean Sampling Day (OSD) campaign June 2019					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006607	ΝΑ	ΝΑ	MGnify
+18S rRNA amplicon sequencing from the Ocean Sampling Day (OSD) campaign June 2019	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB56005	ΝΑ	ΝΑ	ENA
+18S rRNA amplicon sequencing from the Ocean Sampling Day (OSD) campaign June 2019					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006610	ΝΑ	ΝΑ	MGnify
+18S rRNA amplicon sequencing from the Ocean Sampling Day (OSD) campaign June 2018	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB55999	ΝΑ	ΝΑ	ENA
+18S rRNA amplicon sequencing from the Ocean Sampling Day (OSD) campaign June 2018					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006611	ΝΑ	ΝΑ	MGnify
+Microbial Processes and Biodiversity: OCEAN	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA414763	ΝΑ	ΝΑ	ENA
+Microbial Processes and Biodiversity: OCEAN	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00002773	https://www.gbif.org/dataset/bd8b945c-6eb4-4301-b6f1-2f4c8047d0ff	ΝΑ	MGnify
+Picoplankton 18S rRNA gene sequences (V4 region, DNA and RNA) from Vertical Profiles (surface to 4000m depth) sampled during the Malaspina 2010 circumglobal expedition	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB23771	ΝΑ	ΝΑ	ENA
+Picoplankton 18S rRNA gene sequences (V4 region, DNA and RNA) from Vertical Profiles (surface to 4000m depth) sampled during the Malaspina 2010 circumglobal expedition	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00005718	https://www.gbif.org/dataset/c3212620-a567-402a-b6cc-c8dd50c12f55	ΝΑ	MGnify
+Amplicon sequencing of Tara Oceans RNA samples corresponding to size fractions for protists	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB7315	ΝΑ	ΝΑ	ENA
+Amplicon sequencing of Tara Oceans RNA samples corresponding to size fractions for protists	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00001789	https://www.gbif.org/dataset/a6480411-fc6c-41c9-bc52-6a6380f1d76e	ΝΑ	MGnify
+Picoplankton 16S rRNA genes from the tropical and sub-tropical global-ocean sampled during the Malaspina-2010 expedition	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB25224	ΝΑ	ΝΑ	ENA
+Picoplankton 16S rRNA genes from the tropical and sub-tropical global-ocean sampled during the Malaspina-2010 expedition	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00005720	https://www.gbif.org/dataset/1cfb312b-fd18-4756-b4f8-89955d05063c	ΝΑ	MGnify
+Picoplankton 18S rRNA genes from the tropical and sub-tropical global-ocean sampled during the Malaspina-2010 expedition	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB23913	ΝΑ	ΝΑ	ENA
+Picoplankton 18S rRNA genes from the tropical and sub-tropical global-ocean sampled during the Malaspina-2010 expedition	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00005719	https://www.gbif.org/dataset/c21f2e46-c039-4e0c-9b06-1329d733d786	ΝΑ	MGnify
+Picoplankton 18S rRNA gene sequences (V9 region) from Vertical Profiles (surface to 4000m depth) sampled during the Malaspina 2010 circumglobal expedition	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB36469	ΝΑ	ΝΑ	ENA
+Picoplankton 18S rRNA gene sequences (V9 region) from Vertical Profiles (surface to 4000m depth) sampled during the Malaspina 2010 circumglobal expedition	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00005717	https://www.gbif.org/dataset/5fe5939e-db73-4ee5-8ed1-69359976a06a	ΝΑ	MGnify
+Global Malaspina 2010 deep ocean expedition - rRNA pyrotags	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA330770	ΝΑ	ΝΑ	ENA
+Global Malaspina 2010 deep ocean expedition - rRNA pyrotags	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00002788	https://www.gbif.org/dataset/ada1f63e-4128-4ea1-a9dd-b8dbf68971d9	ΝΑ	MGnify
+Global Ocean Sampling Expedition	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA13694	ΝΑ	ΝΑ	ENA
+Global Ocean Sampling Expedition	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00000296	https://www.gbif.org/dataset/512b457b-c410-4381-9911-900956ceb2dd	ΝΑ	MGnify
+Amplicon sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes or protist	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB4357	ΝΑ	ΝΑ	ENA
+Amplicon sequencing of Tara Oceans DNA samples corresponding to size fractions for prokaryotes or protist	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00000492	https://www.gbif.org/dataset/af30815a-73cb-44a2-82a9-43bd0c580c74	ΝΑ	MGnify
+The Indigo Project: a global citizen science Ocean survey	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA399019	ΝΑ	ΝΑ	ENA
+The Indigo Project: a global citizen science Ocean survey	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00004123	https://www.gbif.org/dataset/c7593664-8288-4f6f-9583-f51cd00e63e2	ΝΑ	MGnify
+SOLA Raw sequence reads	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA449267	ΝΑ	ΝΑ	ENA
+SOLA Raw sequence reads	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00004525	https://www.gbif.org/dataset/62db49d6-860a-48cc-a651-b8ba6d94386c	ΝΑ	MGnify
+SOLA sampling point Raw sequence reads	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA579489	ΝΑ	ΝΑ	ENA
+SOLA sampling point Raw sequence reads					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006680	ΝΑ	ΝΑ	MGnify
+Marine fish eDNA metabarcoding	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA802546	ΝΑ	ΝΑ	ENA
+Marine fish eDNA metabarcoding					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006681	ΝΑ	ΝΑ	MGnify
+Vertical stratification of environmental DNA in the open ocean captures ecological patterns and behavior of deep-sea fishes	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA759107	ΝΑ	ΝΑ	ENA
+Vertical stratification of environmental DNA in the open ocean captures ecological patterns and behavior of deep-sea fishes					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006682	ΝΑ	ΝΑ	MGnify
+Dataset on spatiotemporal variation of microbial plankton communities in the Baltic Sea	Dataset published in GBIF by the KTH Royal Institute of Technology	QC check not passed	No		https://www.ebi.ac.uk/ena/browser/view/PRJEB55296	https://www.gbif.se/ipt/resource?r=prjeb55296-18s	ΝΑ	ENA/SBDI ASV portal
+Dataset on spatiotemporal variation of microbial plankton communities in the Baltic Sea	Dataset published in GBIF by the KTH Royal Institute of Technology				https://www.ebi.ac.uk/ena/browser/view/PRJEB55296	https://www.gbif.se/ipt/resource?r=prjeb55296-16s	ΝΑ	ENA/SBDI ASV portal
+Dataset on spatiotemporal variation of microbial plankton communities in the Baltic Sea					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006678	ΝΑ	ΝΑ	MGnify
+16S rRNA gene amplicon time-series in Blanes Bay Microbial Observatory (BBMO)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB38773	ΝΑ	ΝΑ	ENA
+16S rRNA gene amplicon time-series in Blanes Bay Microbial Observatory (BBMO)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006675	ΝΑ	ΝΑ	MGnify
+Blanes Bay Microbial Observatory (BBMO) time-series 18S rRNA gene pico- and nano-plankton (10 years monthly samples)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB23788	ΝΑ	ΝΑ	ENA
+Blanes Bay Microbial Observatory (BBMO) time-series 18S rRNA gene pico- and nano-plankton (10 years monthly samples)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006676	ΝΑ	ΝΑ	MGnify
+Bacterial diversity of marine planktonic size-fractionated samples	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA345534	ΝΑ	ΝΑ	ENA
+Bacterial diversity of marine planktonic size-fractionated samples					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006677	ΝΑ	ΝΑ	MGnify
+Temporal diversity and community structure of the planktonic protist assemblage at the Long Term Ecological Research (LTER) station MareChiara in the Gulf of Naples(Mediterranean Sea) assessed using V4 Illumina sequencing.	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB24595	ΝΑ	ΝΑ	ENA
+Temporal diversity and community structure of the planktonic protist assemblage at the Long Term Ecological Research (LTER) station MareChiara in the Gulf of Naples(Mediterranean Sea) assessed using V4 Illumina sequencing.					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006683	ΝΑ	ΝΑ	MGnify
+Metabarcoding Eukaryotic plankton time series samples from long-term ecological research site MareChiara (LTER-MC)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB56637	ΝΑ	ΝΑ	ENA
+Metabarcoding Eukaryotic plankton time series samples from long-term ecological research site MareChiara (LTER-MC)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006685	ΝΑ	ΝΑ	MGnify
+Distribution of chytrids infecting diatoms	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA878459	ΝΑ	ΝΑ	ENA
+Distribution of chytrids infecting diatoms					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006684	ΝΑ	ΝΑ	MGnify
+White sea picoplankton Metagenome	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA368621	ΝΑ	ΝΑ	ENA
+White sea picoplankton Metagenome					https://www.ebi.ac.uk/metagenomics/studies/MGYS00003126	ΝΑ	ΝΑ	MGnify
+Arctic microbiome along Svalbard Cross Shelf transects	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB24517	ΝΑ	ΝΑ	ENA
+Arctic microbiome along Svalbard Cross Shelf transects	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00003725	https://www.gbif.org/dataset/7c6b6f36-ecab-4ac7-b72c-30e8f501d06f	ΝΑ	MGnify
+Diversity of Pico- to Mesoplankton Along the 2000 km Salinity Gradient of the Baltic Sea					https://www.ebi.ac.uk/ena/browser/view/PRJEB12362	https://www.gbif.se/ipt/resource?r=sbdi-asv-3	ΝΑ	ENA/SBDI ASV portal
+Diversity of Pico- to Mesoplankton Along the 2000 km Salinity Gradient of the Baltic Sea					https://www.ebi.ac.uk/ena/browser/view/PRJEB12362	https://www.gbif.se/ipt/resource?r=kth-2013-baltic-18s	ΝΑ	ENA/SBDI ASV portal
+Diversity of Pico- to Mesoplankton Along the 2000 km Salinity Gradient of the Baltic Sea					https://www.ebi.ac.uk/metagenomics/studies/MGYS00001509	ΝΑ	ΝΑ	MGnify
+Environmental DNA and zooplankton samples taken at Helgoland Roads in June 2019	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB59767	ΝΑ	ΝΑ	ENA
+Environmental DNA and zooplankton samples taken at Helgoland Roads in June 2019					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006686	ΝΑ	ΝΑ	MGnify
+18S community profiles at the the end of a spring bloom at LTER Helgoland Roads	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB38665	ΝΑ	ΝΑ	ENA
+18S community profiles at the the end of a spring bloom at LTER Helgoland Roads					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006687	ΝΑ	ΝΑ	MGnify
+Eukaryotic microbial community at the LTER site Helgoland Roads	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB37135	ΝΑ	ΝΑ	ENA
+Eukaryotic microbial community at the LTER site Helgoland Roads					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006688	ΝΑ	ΝΑ	MGnify
+Marine metagenome ICM_MPI	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA109345	ΝΑ	ΝΑ	ENA
+Marine metagenome ICM_MPI					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006689	ΝΑ	ΝΑ	MGnify
+L4 fungal time series	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA865278	ΝΑ	ΝΑ	ENA
+L4 fungal time series					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006690	ΝΑ	ΝΑ	MGnify
+16s data marine community of L4 station	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB14618	ΝΑ	ΝΑ	ENA
+16s data marine community of L4 station	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00003999	https://www.gbif.org/dataset/f11d5695-fca8-4e5c-8032-a078b1f9bf65	ΝΑ	MGnify
+Marine DNA/RNA samples from Western English Channel site L4	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEA46599	ΝΑ	ΝΑ	ENA
+Marine DNA/RNA samples from Western English Channel site L4	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00004564	https://www.gbif.org/dataset/7c22d468-97e9-413d-ba04-98d6a5aba181	ΝΑ	MGnify
+Baltic Sea 16S gene amplicons from Linnaeus Microbial Observatory sampled regularly since 2011	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB42455	ΝΑ	ΝΑ	ENA
+Baltic Sea 16S gene amplicons from Linnaeus Microbial Observatory sampled regularly since 2011					https://www.ebi.ac.uk/metagenomics/studies/MGYS00002841	ΝΑ	ΝΑ	MGnify
+Transplant and re-transplant microcosms of Baltic Proper and Bothnian Sea bacterioplankton Targeted Locus (Loci)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA260662	ΝΑ	ΝΑ	ENA
+Transplant and re-transplant microcosms of Baltic Proper and Bothnian Sea bacterioplankton Targeted Locus (Loci)	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00006692	https://www.gbif.org/dataset/a1cd73e2-10d4-4ebf-8cb2-99268ac44377	ΝΑ	MGnify
+Baltic Sea 16S gene amplicons from Linnaeus Microbial Observatory sampled regularly since 2011	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB52855	ΝΑ	ΝΑ	ENA
+Baltic Sea 16S gene amplicons from Linnaeus Microbial Observatory sampled regularly since 2011					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006691	ΝΑ	ΝΑ	MGnify
+LMO 2016, 2017 (0.2, 3-0.2, 3)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB52782	ΝΑ	ΝΑ	ENA
+LMO 2016, 2017 (0.2, 3-0.2, 3)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006693	ΝΑ	ΝΑ	MGnify
+LMO 2015, 2016 (0.2, 3-0.2, 3)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB52780	ΝΑ	ΝΑ	ENA
+LMO 2015, 2016 (0.2, 3-0.2, 3)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006694	ΝΑ	ΝΑ	MGnify
+LMO 2011, 2012, 2013 (0.2, 3-0.2, 3)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB52772	ΝΑ	ΝΑ	ENA
+LMO 2011, 2012, 2013 (0.2, 3-0.2, 3)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006695	ΝΑ	ΝΑ	MGnify
+LMO 16S 2011, 2012, 2013 (0.2, 3-0.2, 3)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB52627	ΝΑ	ΝΑ	ENA
+LMO 16S 2011, 2012, 2013 (0.2, 3-0.2, 3)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006696	ΝΑ	ΝΑ	MGnify
+LMO 16S 2014, 2015 (0.2, 3-0.2, 3)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB52496	ΝΑ	ΝΑ	ENA
+LMO 16S 2014, 2015 (0.2, 3-0.2, 3)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006697	ΝΑ	ΝΑ	MGnify
+LMO 2017 (0.2, 3-0.2, 3)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB52828	ΝΑ	ΝΑ	ENA
+LMO 2017 (0.2, 3-0.2, 3)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006698	ΝΑ	ΝΑ	MGnify
+LMO 2018 (0.2, 3-0.2, 3)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB52837	ΝΑ	ΝΑ	ENA
+LMO 2018 (0.2, 3-0.2, 3)	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00002766	https://www.gbif.org/dataset/d89c047d-acfc-4ccd-8627-7e44bd330812	ΝΑ	MGnify
+LMO 2011-16 (0.2, 3-0.2, 3) resequencing	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB52854	ΝΑ	ΝΑ	ENA
+LMO 2011-16 (0.2, 3-0.2, 3) resequencing					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006699	ΝΑ	ΝΑ	MGnify
+Baltic Sea high-frequency temporal study 2012 at the Linnaeus Microbial Observatory Targeted Locus (Loci)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA260661	ΝΑ	ΝΑ	ENA
+Baltic Sea high-frequency temporal study 2012 at the Linnaeus Microbial Observatory Targeted Locus (Loci)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006701	ΝΑ	ΝΑ	MGnify
+LMO 16S 2013 (3 um)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB56745	ΝΑ	ΝΑ	ENA
+LMO 16S 2013 (3 um)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006700	ΝΑ	ΝΑ	MGnify
+LMO 16S 2012-13 (3 um)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB56744	ΝΑ	ΝΑ	ENA
+LMO 16S 2012-13 (3 um)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006703	ΝΑ	ΝΑ	MGnify
+LMO 2012 (3-0.2) resequencing	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB52850	ΝΑ	ΝΑ	ENA
+LMO 2012 (3-0.2) resequencing					https://www.ebi.ac.uk/metagenomics/studies/MGYS00002774	ΝΑ	ΝΑ	MGnify
+LMO 2015, 2016, 2019 (0.2, 3-0.2, 3)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB52851	ΝΑ	ΝΑ	ENA
+LMO 2015, 2016, 2019 (0.2, 3-0.2, 3)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006704	ΝΑ	ΝΑ	MGnify
+marine metagenome Targeted Locus (Loci)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA196396	ΝΑ	ΝΑ	ENA
+marine metagenome Targeted Locus (Loci)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006702	ΝΑ	ΝΑ	MGnify
+18S rDNA amplicon sequencing of NEREA size-fractionated samples	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB74658	ΝΑ	ΝΑ	ENA
+18S rDNA amplicon sequencing of NEREA size-fractionated samples					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006707	ΝΑ	ΝΑ	MGnify
+16S rDNA amplicon sequencing of NEREA size-fractionated samples	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB74641	ΝΑ	ΝΑ	ENA
+16S rDNA amplicon sequencing of NEREA size-fractionated samples					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006706	ΝΑ	ΝΑ	MGnify
+Seasonality of rare and abundant bacterial taxa in Radiales E2 Gijon/Xixon time-series station	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB6399	ΝΑ	ΝΑ	ENA
+Seasonality of rare and abundant bacterial taxa in Radiales E2 Gijon/Xixon time-series station					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006705	ΝΑ	ΝΑ	MGnify
+particle-attached and free-living bacteria kongsfjorden	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/SRP158987	ΝΑ	ΝΑ	ENA
+particle-attached and free-living bacteria kongsfjorden					https://www.ebi.ac.uk/metagenomics/studies/MGYS00004542	ΝΑ	ΝΑ	MGnify
+Particle -attached and free-living archaea from surface waters of kongsfjorden	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/SRP279544	ΝΑ	ΝΑ	ENA
+Particle -attached and free-living archaea from surface waters of kongsfjorden					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006708	ΝΑ	ΝΑ	MGnify
+Planktonic bacterial communities in the arctic Canada Basin and Kongsfjorden	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/ERP001390	ΝΑ	ΝΑ	ENA
+Planktonic bacterial communities in the arctic Canada Basin and Kongsfjorden					https://www.ebi.ac.uk/metagenomics/studies/MGYS00004077	ΝΑ	ΝΑ	MGnify
+Kongsfjorden_July_2016	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/ERP114510	ΝΑ	ΝΑ	ENA
+Kongsfjorden_July_2016					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006709	ΝΑ	ΝΑ	MGnify
+Arctic microbiome along Svalbard Cross Shelf transects	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/ERP106348	ΝΑ	ΝΑ	ENA
+Arctic microbiome along Svalbard Cross Shelf transects					https://www.ebi.ac.uk/metagenomics/studies/MGYS00003725	ΝΑ	ΝΑ	MGnify
+Contrasting summer microbiome communities of the Fram Strait	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA815464	ΝΑ	ΝΑ	ENA
+Contrasting summer microbiome communities of the Fram Strait					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006710	ΝΑ	ΝΑ	MGnify
+Phytoplankton-derived biopolymers and seasonal bacterial diversity in Fram Strait	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB43926	ΝΑ	ΝΑ	ENA
+Phytoplankton-derived biopolymers and seasonal bacterial diversity in Fram Strait					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006711	ΝΑ	ΝΑ	MGnify
+Annual Dynamics of Bacterial & Archaeal Communities in Fram Strait (2016-2017)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB43890	ΝΑ	ΝΑ	ENA
+Annual Dynamics of Bacterial & Archaeal Communities in Fram Strait (2016-2017)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006723	ΝΑ	ΝΑ	MGnify
+Annual Dynamics of Bacterial & Archaeal Communities in Fram Strait (2017-2018)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB43889	ΝΑ	ΝΑ	ENA
+Annual Dynamics of Bacterial & Archaeal Communities in Fram Strait (2017-2018)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006722	ΝΑ	ΝΑ	MGnify
+Regional and vertical patterns in microbial communities across Fram Strait (2015-2019)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB66267	ΝΑ	ΝΑ	ENA
+Regional and vertical patterns in microbial communities across Fram Strait (2015-2019)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006724	ΝΑ	ΝΑ	MGnify
+Pelagic free-living and particle-associated microbial communities across Fram Strait	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB30254	ΝΑ	ΝΑ	ENA
+Pelagic free-living and particle-associated microbial communities across Fram Strait					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006713	ΝΑ	ΝΑ	MGnify
+Annual Dynamics of Microeukaryotic Communities in Fram Strait (2017-2018)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB43885	ΝΑ	ΝΑ	ENA
+Annual Dynamics of Microeukaryotic Communities in Fram Strait (2017-2018)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006712	ΝΑ	ΝΑ	MGnify
+Annual Dynamics of Microeukaryotic Communities in Fram Strait (2016-2017)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB43504	ΝΑ	ΝΑ	ENA
+Annual Dynamics of Microeukaryotic Communities in Fram Strait (2016-2017)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006715	ΝΑ	ΝΑ	MGnify
+Annual Dynamics of Bacterial & Archaeal Communities in the East Greenland Current (2019-2020)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB54586	ΝΑ	ΝΑ	ENA
+Annual Dynamics of Bacterial & Archaeal Communities in the East Greenland Current (2019-2020)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006716	ΝΑ	ΝΑ	MGnify
+Annual Dynamics of Bacterial & Archaeal Communities in the East Greenland Current (2018-2019)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB54562	ΝΑ	ΝΑ	ENA
+Annual Dynamics of Bacterial & Archaeal Communities in the East Greenland Current (2018-2019)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006714	ΝΑ	ΝΑ	MGnify
+Annual Dynamics of Bacterial & Archaeal Communities in the West Spitsbergen Current (2018-2019)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB67813	ΝΑ	ΝΑ	ENA
+Annual Dynamics of Bacterial & Archaeal Communities in the West Spitsbergen Current (2018-2019)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006718	ΝΑ	ΝΑ	MGnify
+Annual Dynamics of Bacterial & Archaeal Communities in the West Spitsbergen Current (2019-2020)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB66202	ΝΑ	ΝΑ	ENA
+Annual Dynamics of Bacterial & Archaeal Communities in the West Spitsbergen Current (2019-2020)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006717	ΝΑ	ΝΑ	MGnify
+Annual Dynamics of Microeukaryotic Communities in the West Spitsbergen Current (2018-2019)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB66212	ΝΑ	ΝΑ	ENA
+Annual Dynamics of Microeukaryotic Communities in the West Spitsbergen Current (2018-2019)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006719	ΝΑ	ΝΑ	MGnify
+Annual Dynamics of Microeukaryotic Communities in the West Spitsbergen Current (2019-2020)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB66220	ΝΑ	ΝΑ	ENA
+Annual Dynamics of Microeukaryotic Communities in the West Spitsbergen Current (2019-2020)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006720	ΝΑ	ΝΑ	MGnify
+Annual Dynamics of Bacterial & Archaeal Communities in the West Spitsbergen Current (2018-2019)	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB65742	ΝΑ	ΝΑ	ENA
+Annual Dynamics of Bacterial & Archaeal Communities in the West Spitsbergen Current (2018-2019)					https://www.ebi.ac.uk/metagenomics/studies/MGYS00006721	ΝΑ	ΝΑ	MGnify
+Pelagic bacterial communities across Fram Strait	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB26163	ΝΑ	ΝΑ	ENA
+Pelagic bacterial communities across Fram Strait	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00005711	https://www.gbif.org/dataset/a69a2cf8-97df-43e8-8c42-5f117204fd68	ΝΑ	MGnify
+Pelagic eukaryotic communities across Fram Strait	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB26288	ΝΑ	ΝΑ	ENA
+Pelagic eukaryotic communities across Fram Strait	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00005712	https://www.gbif.org/dataset/733775df-e31f-4742-ac29-81d24c464bff	ΝΑ	MGnify
+Biogeography of Arctic picoeukaryotes during summer of 2012	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB11449	ΝΑ	ΝΑ	ENA
+Biogeography of Arctic picoeukaryotes during summer of 2012	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00005715	https://www.gbif.org/dataset/0081f2b0-3c35-4592-9258-2a131bdedfd3	ΝΑ	MGnify
+Microbial community 16S rRNA from Fram Strait water samples PS85 2014	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJEB33295	ΝΑ	ΝΑ	ENA
+Microbial community 16S rRNA from Fram Strait water samples PS85 2014	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00005713	https://www.gbif.org/dataset/d707f7a6-c028-45c5-82ff-e1a22f9ddfe6	ΝΑ	MGnify
