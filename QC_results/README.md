@@ -1,4 +1,5 @@
 This folder contains the results of the [EMODnetBiocheck tool](https://github.com/EMODnet/EMODnetBiocheck) on the [Genomics datasets](https://github.com/cpavloud/Genomics_DTO-BioFlow/blob/main/QC_results/Genomics_datasets.tsv) that are identified as priority by Task 3.1. 
+
 In order for the datasets to be published to [EMODnet Biology catalogue](https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/search?resultType=details&sortBy=sortDate&from=1&to=20) (and subsequently the DTO), we are checking if they meet the OBIS guidelines.
 
 Several of those datasets have been analyzed by [MGnify](https://www.ebi.ac.uk/metagenomics) and harvested by [GBIF](https://www.gbif.org/publisher/ab733144-7043-4e88-bd4f-fca7bf858880). Those genomics datasets cannot be retrieved via an IPT resource URL, therefore the QC check needs to be done using the "loaded data tables" option.
