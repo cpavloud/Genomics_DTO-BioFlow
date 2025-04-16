@@ -17,8 +17,8 @@ It depends on what the issue would be:
 If there is required information that was not provided by the initial data provider (to ENA/NCBI), then it would be on the **data provider**.  
 If there is required information not being provided by MGnify, then it would be on **MGnify**.  
 If there is required information that is provided but not captured in the DarwinCore, then it would be on **GBIF** (or whoever is responsible for the conversion to DwC). 
-
 But for each of these, it would require EMODnet Biology and/or WP3 partners to reach out to them and ask them to update the dataset. 
+
 
 *What about duplicate datasets in EMODnet Biology? E.g. if we create a DwC file from a MGnify analyzed dataset and submit it to EMODnet Biology but later on GBIF also harvests it, will there be an issue with having two versions of the same dataset?*
 
