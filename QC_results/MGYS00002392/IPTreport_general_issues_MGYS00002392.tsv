@@ -1,0 +1,18 @@
+field	message	count	table
+coordinates_error	Coordinates are located on land	1	event
+datasetName	Required field datasetName is missing	1	event
+eventDate	Empty value for required field eventDate	24	event
+institutionCode	Required field institutionCode is missing	1	event
+maximumDepthInMeters	Depth value is greater than the value found in the bathymetry raster	2	event
+maximumDepthInMeters	Depth value (0.0-100.0) is not numeric and not empty	1	event
+maximumDepthInMeters	Depth value (0.0-140.0) is not numeric and not empty	1	event
+maximumDepthInMeters	Depth value (0.0-150.0) is not numeric and not empty	1	event
+maximumDepthInMeters	Depth value (0.0-500.0) is not numeric and not empty	1	event
+minimumDepthInMeters	Depth value is greater than the value found in the bathymetry raster	2	event
+minimumDepthInMeters	Depth value (0.0-100.0) is not numeric and not empty	1	event
+minimumDepthInMeters	Depth value (0.0-140.0) is not numeric and not empty	1	event
+minimumDepthInMeters	Depth value (0.0-150.0) is not numeric and not empty	1	event
+minimumDepthInMeters	Depth value (0.0-500.0) is not numeric and not empty	1	event
+occurrenceStatus	Required field occurrenceStatus is missing	1	occurrence
+occurrence_error	Potential duplicate record	986	occurrence
+scientificNameID	Required field scientificNameID is missing	1	occurrence

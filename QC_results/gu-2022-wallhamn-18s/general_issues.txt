@@ -1,0 +1,4 @@
+field	message	count	table
+occurrenceStatus	Required field occurrenceStatus is missing	1	occurrence
+occurrence_error	Potential duplicate record	1928	occurrence
+scientificNameID	Required field scientificNameID is missing	1	occurrence

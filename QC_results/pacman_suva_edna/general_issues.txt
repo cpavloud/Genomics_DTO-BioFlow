@@ -1,0 +1,10 @@
+field	message	count	table
+datasetName	Required field datasetName is missing	1	occurrence
+decimalLatitude	Empty value for required field decimalLatitude	1780	occurrence
+decimalLongitude	Empty value for required field decimalLongitude	1780	occurrence
+eventDate	Empty value for required field eventDate	87	occurrence
+institutionCode	Required field institutionCode is missing	1	occurrence
+maximumDepthInMeters	Recommended field maximumDepthInMeters is missing	1	occurrence
+minimumDepthInMeters	Recommended field minimumDepthInMeters is missing	1	occurrence
+occurrence_error	Potential duplicate record	350483	occurrence
+scientificNameID	Empty value for required field scientificNameID	225034	occurrence
