@@ -1,22 +1,29 @@
-setwd("/Users/christina/Downloads/dwca-gu-2022-wallhamn-coi-v1/")
+# ============================================================
+'R code for DTO-BioFlow project
 
+Christina Pavloudi
+christina.pavloudi@embrc.eu
+https://cpavloud.github.io/mysite/
+
+	Copyright (C) 2025 Christina Pavloudi
+  
+    This script is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+  
+    This script is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.'
+
+# =============================================================
 
 ############################LOAD LIBRARIES #######################################
-library(vegan); packageVersion("vegan")
-library(ecodist); packageVersion("ecodist")
-library(GGally); packageVersion("GGally")
-library(phyloseq); packageVersion("phyloseq")
-library(ggplot2); packageVersion("ggplot2")
-library(tidyverse); packageVersion("tidyverse")
-library(RColorBrewer); packageVersion("RColorBrewer")
-library(DECIPHER); packageVersion("DECIPHER")
-library(microViz); packageVersion("microViz")
-library(ape); packageVersion("ape")
-library(decontam); packageVersion("decontam")
-library(DT); packageVersion("DT")
-library(naniar); packageVersion("naniar")
 
 library(dplyr)
+library(obistools)
+library(tidyverse)
 
 ########################################################################################
 ########################################################################################
@@ -25,49 +32,97 @@ library(dplyr)
 #import the occurrence table (or else biotic data)
 occurrence <- read.csv("occurrence.txt", sep = "\t", header=TRUE, row.names = 1)
 
+#convert the rownames into an rownames column
+occurrence <- tibble::rownames_to_column(occurrence, "rownames")
+
+#subset the rows with Unassigned scientificName
+occurrence_unassigned <- occurrence %>% dplyr::filter(scientificName == "Unassigned")
+#add a scientificNameID column
+occurrence_unassigned <- occurrence_unassigned %>% mutate(scientificNameID = NA)
+
+#select the rest of the occurrences
+occurrence_assigned <- anti_join(occurrence, occurrence_unassigned)
+
 #select only the taxonomy related columns
-taxonomy <- select(occurrence, scientificName, kingdom, phylum, 
+taxonomy <- select(occurrence_assigned, rownames,scientificName, kingdom, phylum, 
                    class, order, family, genus, specificEpithet,
                    infraspecificEpithet)
 
+#replace empty cells with NA
+taxonomy[taxonomy == ''] <- NA
+
+#correct columns
+taxonomy$infraspecificEpithet <- sub('XXX', NA, taxonomy$infraspecificEpithet)
+taxonomy$infraspecificEpithet <- sub('XX', NA, taxonomy$infraspecificEpithet)
+
+#add a taxonname column
+taxonomy <- taxonomy %>%
+  mutate(taxonname = case_when(grepl("_XX", genus) ~ specificEpithet,
+                              grepl("_X", genus) ~ specificEpithet, 
+                              genus == "Ichthyophorba" ~ paste(specificEpithet, infraspecificEpithet), 
+                              specificEpithet == "X" ~ genus, 
+                              grepl("BOLD", scientificName) ~ paste(genus, specificEpithet)))
+
+#separate the taxonomy files
+BOLD <- taxonomy[startsWith(as.character(taxonomy$scientificName), 'BOLD'),]
+rest <- anti_join(taxonomy, BOLD)
+
+#create a list with the unique taxa from the rest data table
+rest_for_worms <- select(rest, scientificName)
+rest_for_worms <- unique(rest_for_worms)
+
+rest_for_worms_list <- list()
+for (i in rest_for_worms) {
+  rest_for_worms_list <- append(rest_for_worms_list, i)
+}
+rest_for_worms_list <- as.character(rest_for_worms_list)
+
+#create a list with the unique taxa from the BOLD data table
+BOLD_for_worms <- select(BOLD, taxonname)
+BOLD_for_worms <- unique(BOLD_for_worms)
+
+BOLD_for_worms_list <- list()
+for (i in BOLD_for_worms) {
+  BOLD_for_worms_list <- append(BOLD_for_worms_list, i)
+}
+BOLD_for_worms_list <- as.character(BOLD_for_worms_list)
+
 
 #RETRIEVE APHIA IDs
-#be careful here, run just the next line of code
-#not more
-species_for_worms_Aphia <- match_taxa(species_for_worms_list, ask=TRUE)
+rest_for_worms_Aphia <- match_taxa(rest_for_worms_list, ask=TRUE)
+BOLD_for_worms_Aphia <- match_taxa(BOLD_for_worms_list, ask=TRUE)
+
 #the function will ask you if it finds ambihuous names
 #you will need resolve them by typing the correct numbers 
 #corresponding to the correct species names
 
-#  135263 Aurelia        Lamarck, 1816 accepted   exact 
-#  122386 Carinina       Hubrecht, 1885           accepted   exact     
-#  106485 Oithona        Baird, 1843           accepted   exact     
-#  129625 Spio           Fabricius, 1785         accepted   exact     
-#  982 Terebellidae   Johnston, 1846            accepted   exact     
+#1  126892 Gobius niger   Linnaeus, 1758 accepted   exact     
+#1  138225 Musculus       Röding, 1798 accepted   exact     
+#2  122817 Oerstedia dorsalis (Abildgaard, 1806) accepted exact     
 
-#there may be species for which no match was found
-species_for_worms_Aphia <- species_for_worms_Aphia %>% drop_na()
-#if no species rows are deleted, ok
-#if some rows are deleted, let me know
+#there is one species in the occcurrence data frame with a non-valid name
+#subsequently in the BOLD data frame
+#Lepthyphantes leprosus should be corrected to Leptyphantes leprosus
+BOLD$taxonname <- sub('Lepthyphantes leprosus', 'Leptyphantes leprosus', BOLD$taxonname)
 
-#split the column scientificNameID
-split_into_multiple <- function(column, pattern = ", ", into_prefix){
-  cols <- str_split_fixed(column, pattern, n = Inf)
-  # Sub out the ""'s returned by filling the matrix to the right, with NAs which are useful
-  cols[which(cols == "")] <- NA
-  cols <- as.tibble(cols)
-  # name the 'cols' tibble as 'into_prefix_1', 'into_prefix_2', ..., 'into_prefix_m' 
-  # where m = # columns of 'cols'
-  m <- dim(cols)[2]
-  
-  names(cols) <- paste(into_prefix, 1:m, sep = "_")
-  return(cols)
-}
+#merge the AphiaIDs with the taxonomy tables
+BOLD <- merge(BOLD, BOLD_for_worms_Aphia, by.x = 'taxonname', by.y = 'scientificName')
+rest <- merge(rest, rest_for_worms_Aphia, by.x = 'scientificName', by.y = 'scientificName')
 
-species_for_worms_Aphia <- species_for_worms_Aphia %>% 
-  bind_cols(split_into_multiple(.$scientificNameID, ":", "scientificNameID")) %>% 
-  # selecting those that start with 'type_' will remove the original 'type' column
-  select(scientificName, match_type, starts_with("scientificNameID_"))
+#merge the two data frames
+BOLD_rest <- rbind(BOLD, rest)
+#select just the columns of interest
+BOLD_rest <- select(BOLD_rest, rownames, scientificNameID)
+BOLD_rest <- BOLD_rest  %>% remove_rownames %>% column_to_rownames(var="rownames")
 
-colnames(species_for_worms_Aphia)[colnames(species_for_worms_Aphia) == "scientificNameID_5"] ="aphiaID"
-species_for_worms_Aphia <- select(species_for_worms_Aphia, scientificName, aphiaID)
+#merge the BOLD_rest with the original occurrence assigned table
+occurrence_assigned <- occurrence_assigned  %>% remove_rownames %>% column_to_rownames(var="rownames")
+occurrence_assigned <- cbind(occurrence_assigned, BOLD_rest)
+
+occurrence_unassigned <- occurrence_unassigned  %>% remove_rownames %>% column_to_rownames(var="rownames")
+occurrence <- occurrence  %>% remove_rownames %>% column_to_rownames(var="rownames")
+
+
+#merge the two data frames to create the updated occcurrence table
+occurrence_updated <- rbind(occurrence_assigned, occurrence_unassigned)
+
