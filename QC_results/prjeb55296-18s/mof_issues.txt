@@ -1,0 +1,262 @@
+IDlink	measurementType	measurementValue	measurementUnit	message	count
+occurrenceMoF	sample_DNA_concentration		ng/mL	measurementTypeID is missing	99159
+occurrenceMoF	sampled_volume		mL	measurementTypeID is missing	99159
+occurrenceMoF	water_depth		m	measurementTypeID is missing	98639
+occurrenceMoF	cloud_observation		code	measurementTypeID is missing	73949
+occurrenceMoF	ice_observation		code	measurementTypeID is missing	73949
+occurrenceMoF	sampled_depth		m	measurementTypeID is missing	73949
+occurrenceMoF	weather_observation		code	measurementTypeID is missing	73949
+occurrenceMoF	wind_speed		m/s	measurementTypeID is missing	73949
+occurrenceMoF	salinity_CTD_5m		psu	measurementTypeID is missing	73677
+occurrenceMoF	salinity_average		psu	measurementTypeID is missing	73677
+occurrenceMoF	temperature_water_CTD_5m		?C	measurementTypeID is missing	73677
+occurrenceMoF	wind_direction		code	measurementTypeID is missing	73651
+occurrenceMoF	salinity_CTD_0-1m		psu	measurementTypeID is missing	73195
+occurrenceMoF	temperature_water_CTD_0-1m		?C	measurementTypeID is missing	73195
+occurrenceMoF	total_phosphorus_5m		mol/L	measurementTypeID is missing	71949
+occurrenceMoF	total_nitrogen_0-1m		mol/L	measurementTypeID is missing	71763
+occurrenceMoF	total_nitrogen_5m		mol/L	measurementTypeID is missing	71702
+occurrenceMoF	salinity_CTD_10m		psu	measurementTypeID is missing	71542
+occurrenceMoF	temperature_water_CTD_10m		?C	measurementTypeID is missing	71542
+occurrenceMoF	total_phosphorus_0-1m		mol/L	measurementTypeID is missing	71474
+occurrenceMoF	wave_observation		code	measurementTypeID is missing	70585
+occurrenceMoF	phosphate_PO4_5m		mol/L	measurementTypeID is missing	70241
+occurrenceMoF	silicate_SiO3_5m		mol/L	measurementTypeID is missing	70241
+occurrenceMoF	ammonium_NH4_5m		mol/L	measurementTypeID is missing	70024
+occurrenceMoF	ammonium_NH4_0-1m		mol/L	measurementTypeID is missing	69723
+occurrenceMoF	silicate_SiO3_0-1m		mol/L	measurementTypeID is missing	69723
+occurrenceMoF	total_phosphorus_10m		mol/L	measurementTypeID is missing	69688
+occurrenceMoF	total_nitrogen_10m		mol/L	measurementTypeID is missing	69457
+occurrenceMoF	phosphate_PO4_0-1m		mol/L	measurementTypeID is missing	69434
+occurrenceMoF	phosphate_PO4_10m		mol/L	measurementTypeID is missing	68106
+occurrenceMoF	silicate_SiO3_10m		mol/L	measurementTypeID is missing	68106
+occurrenceMoF	ammonium_NH4_10m		mol/L	measurementTypeID is missing	67951
+occurrenceMoF	nitrate_NO3_5m		mol/L	measurementTypeID is missing	59688
+occurrenceMoF	nitrite_NO2_5m		mol/L	measurementTypeID is missing	59688
+occurrenceMoF	nitrate_NO3_0-1m		mol/L	measurementTypeID is missing	59170
+occurrenceMoF	nitrite_NO2_0-1m		mol/L	measurementTypeID is missing	59170
+occurrenceMoF	nitrite_NO2_10m		mol/L	measurementTypeID is missing	57880
+occurrenceMoF	nitrate_NO3_10m		mol/L	measurementTypeID is missing	57553
+occurrenceMoF	chlorophyll_a_0-1m		g/L	measurementTypeID is missing	54969
+occurrenceMoF	dissolved_oxygen_O2_CTD_10m		ml/l	measurementTypeID is missing	54559
+occurrenceMoF	dissolved_oxygen_O2_CTD_5m		ml/l	measurementTypeID is missing	54559
+occurrenceMoF	dissolved_oxygen_O2_CTD_0-1m		ml/l	measurementTypeID is missing	54110
+occurrenceMoF	air_temperature		?C	measurementTypeID is missing	52592
+occurrenceMoF	nitrite+nitrate_NO2+NO3_10m		mol/L	measurementTypeID is missing	52078
+occurrenceMoF	nitrite+nitrate_NO2+NO3_5m		mol/L	measurementTypeID is missing	52078
+occurrenceMoF	chlorophyll_a_10m		g/L	measurementTypeID is missing	51700
+occurrenceMoF	nitrite+nitrate_NO2+NO3_0-1m		mol/L	measurementTypeID is missing	51560
+occurrenceMoF	chlorophyll_a_5m		g/L	measurementTypeID is missing	51399
+occurrenceMoF	Secchi_depth		m	measurementTypeID is missing	49726
+occurrenceMoF	pH_5m			measurementTypeID is missing	45668
+occurrenceMoF	pH_0-1m			measurementTypeID is missing	45186
+occurrenceMoF	pH_10m			measurementTypeID is missing	43533
+occurrenceMoF	alkalinity_0-1m		mmol/kg	measurementTypeID is missing	42532
+occurrenceMoF	alkalinity_5m		mmol/kg	measurementTypeID is missing	42182
+occurrenceMoF	alkalinity_10m		mmol/kg	measurementTypeID is missing	42055
+occurrenceMoF	air_pressure		hpa	measurementTypeID is missing	40741
+occurrenceMoF	humic_substance_0-1m		g/L	measurementTypeID is missing	37534
+occurrenceMoF	humic_substance_5m		g/L	measurementTypeID is missing	36960
+occurrenceMoF	conductivity_CTD_0-1m		mS/m	measurementTypeID is missing	21357
+occurrenceMoF	conductivity_CTD_5m		mS/m	measurementTypeID is missing	21357
+occurrenceMoF	conductivity_CTD_10m		mS/m	measurementTypeID is missing	19222
+occurrenceMoF	humic_substance_10m		g/L	measurementTypeID is missing	17898
+occurrenceMoF	sampled_volume		mL	measurementUnits which may need a measurementUnitID	99159
+occurrenceMoF	sample_DNA_concentration		ng/mL	measurementUnits which may need a measurementUnitID	99159
+occurrenceMoF	water_depth		m	measurementUnits which may need a measurementUnitID	98639
+occurrenceMoF	wind_speed		m/s	measurementUnits which may need a measurementUnitID	73949
+occurrenceMoF	weather_observation		code	measurementUnits which may need a measurementUnitID	73949
+occurrenceMoF	sampled_depth		m	measurementUnits which may need a measurementUnitID	73949
+occurrenceMoF	ice_observation		code	measurementUnits which may need a measurementUnitID	73949
+occurrenceMoF	cloud_observation		code	measurementUnits which may need a measurementUnitID	73949
+occurrenceMoF	temperature_water_CTD_5m		?C	measurementUnits which may need a measurementUnitID	73677
+occurrenceMoF	salinity_average		psu	measurementUnits which may need a measurementUnitID	73677
+occurrenceMoF	salinity_CTD_5m		psu	measurementUnits which may need a measurementUnitID	73677
+occurrenceMoF	wind_direction		code	measurementUnits which may need a measurementUnitID	73651
+occurrenceMoF	temperature_water_CTD_0-1m		?C	measurementUnits which may need a measurementUnitID	73195
+occurrenceMoF	salinity_CTD_0-1m		psu	measurementUnits which may need a measurementUnitID	73195
+occurrenceMoF	total_phosphorus_5m		mol/L	measurementUnits which may need a measurementUnitID	71949
+occurrenceMoF	total_nitrogen_0-1m		mol/L	measurementUnits which may need a measurementUnitID	71763
+occurrenceMoF	total_nitrogen_5m		mol/L	measurementUnits which may need a measurementUnitID	71702
+occurrenceMoF	temperature_water_CTD_10m		?C	measurementUnits which may need a measurementUnitID	71542
+occurrenceMoF	salinity_CTD_10m		psu	measurementUnits which may need a measurementUnitID	71542
+occurrenceMoF	total_phosphorus_0-1m		mol/L	measurementUnits which may need a measurementUnitID	71474
+occurrenceMoF	wave_observation		code	measurementUnits which may need a measurementUnitID	70585
+occurrenceMoF	silicate_SiO3_5m		mol/L	measurementUnits which may need a measurementUnitID	70241
+occurrenceMoF	phosphate_PO4_5m		mol/L	measurementUnits which may need a measurementUnitID	70241
+occurrenceMoF	ammonium_NH4_5m		mol/L	measurementUnits which may need a measurementUnitID	70024
+occurrenceMoF	silicate_SiO3_0-1m		mol/L	measurementUnits which may need a measurementUnitID	69723
+occurrenceMoF	ammonium_NH4_0-1m		mol/L	measurementUnits which may need a measurementUnitID	69723
+occurrenceMoF	total_phosphorus_10m		mol/L	measurementUnits which may need a measurementUnitID	69688
+occurrenceMoF	total_nitrogen_10m		mol/L	measurementUnits which may need a measurementUnitID	69457
+occurrenceMoF	phosphate_PO4_0-1m		mol/L	measurementUnits which may need a measurementUnitID	69434
+occurrenceMoF	silicate_SiO3_10m		mol/L	measurementUnits which may need a measurementUnitID	68106
+occurrenceMoF	phosphate_PO4_10m		mol/L	measurementUnits which may need a measurementUnitID	68106
+occurrenceMoF	ammonium_NH4_10m		mol/L	measurementUnits which may need a measurementUnitID	67951
+occurrenceMoF	nitrite_NO2_5m		mol/L	measurementUnits which may need a measurementUnitID	59688
+occurrenceMoF	nitrate_NO3_5m		mol/L	measurementUnits which may need a measurementUnitID	59688
+occurrenceMoF	nitrite_NO2_0-1m		mol/L	measurementUnits which may need a measurementUnitID	59170
+occurrenceMoF	nitrate_NO3_0-1m		mol/L	measurementUnits which may need a measurementUnitID	59170
+occurrenceMoF	nitrite_NO2_10m		mol/L	measurementUnits which may need a measurementUnitID	57880
+occurrenceMoF	nitrate_NO3_10m		mol/L	measurementUnits which may need a measurementUnitID	57553
+occurrenceMoF	chlorophyll_a_0-1m		g/L	measurementUnits which may need a measurementUnitID	54969
+occurrenceMoF	dissolved_oxygen_O2_CTD_5m		ml/l	measurementUnits which may need a measurementUnitID	54559
+occurrenceMoF	dissolved_oxygen_O2_CTD_10m		ml/l	measurementUnits which may need a measurementUnitID	54559
+occurrenceMoF	dissolved_oxygen_O2_CTD_0-1m		ml/l	measurementUnits which may need a measurementUnitID	54110
+occurrenceMoF	air_temperature		?C	measurementUnits which may need a measurementUnitID	52592
+occurrenceMoF	nitrite+nitrate_NO2+NO3_5m		mol/L	measurementUnits which may need a measurementUnitID	52078
+occurrenceMoF	nitrite+nitrate_NO2+NO3_10m		mol/L	measurementUnits which may need a measurementUnitID	52078
+occurrenceMoF	chlorophyll_a_10m		g/L	measurementUnits which may need a measurementUnitID	51700
+occurrenceMoF	nitrite+nitrate_NO2+NO3_0-1m		mol/L	measurementUnits which may need a measurementUnitID	51560
+occurrenceMoF	chlorophyll_a_5m		g/L	measurementUnits which may need a measurementUnitID	51399
+occurrenceMoF	Secchi_depth		m	measurementUnits which may need a measurementUnitID	49726
+occurrenceMoF	alkalinity_0-1m		mmol/kg	measurementUnits which may need a measurementUnitID	42532
+occurrenceMoF	alkalinity_5m		mmol/kg	measurementUnits which may need a measurementUnitID	42182
+occurrenceMoF	alkalinity_10m		mmol/kg	measurementUnits which may need a measurementUnitID	42055
+occurrenceMoF	air_pressure		hpa	measurementUnits which may need a measurementUnitID	40741
+occurrenceMoF	humic_substance_0-1m		g/L	measurementUnits which may need a measurementUnitID	37534
+occurrenceMoF	humic_substance_5m		g/L	measurementUnits which may need a measurementUnitID	36960
+occurrenceMoF	conductivity_CTD_5m		mS/m	measurementUnits which may need a measurementUnitID	21357
+occurrenceMoF	conductivity_CTD_0-1m		mS/m	measurementUnits which may need a measurementUnitID	21357
+occurrenceMoF	conductivity_CTD_10m		mS/m	measurementUnits which may need a measurementUnitID	19222
+occurrenceMoF	humic_substance_10m		g/L	measurementUnits which may need a measurementUnitID	17898
+occurrenceMoF	pH_5m	7.9		measurementValues which may need a measurementValueID or a Unit	6756
+occurrenceMoF	pH_10m	7.9		measurementValues which may need a measurementValueID or a Unit	5727
+occurrenceMoF	pH_0-1m	7.9		measurementValues which may need a measurementValueID or a Unit	4948
+occurrenceMoF	pH_0-1m	8		measurementValues which may need a measurementValueID or a Unit	4845
+occurrenceMoF	pH_5m	8		measurementValues which may need a measurementValueID or a Unit	3859
+occurrenceMoF	pH_10m	8		measurementValues which may need a measurementValueID or a Unit	3818
+occurrenceMoF	pH_10m	8.15		measurementValues which may need a measurementValueID or a Unit	3313
+occurrenceMoF	pH_0-1m	8.15		measurementValues which may need a measurementValueID or a Unit	3282
+occurrenceMoF	pH_10m	7.8		measurementValues which may need a measurementValueID or a Unit	2784
+occurrenceMoF	pH_10m	8.1		measurementValues which may need a measurementValueID or a Unit	2735
+occurrenceMoF	pH_5m	8.18		measurementValues which may need a measurementValueID or a Unit	2671
+occurrenceMoF	pH_0-1m	8.17		measurementValues which may need a measurementValueID or a Unit	2484
+occurrenceMoF	pH_5m	8.15		measurementValues which may need a measurementValueID or a Unit	2459
+occurrenceMoF	pH_10m	8.17		measurementValues which may need a measurementValueID or a Unit	2450
+occurrenceMoF	pH_5m	8.13		measurementValues which may need a measurementValueID or a Unit	2399
+occurrenceMoF	pH_5m	8.1		measurementValues which may need a measurementValueID or a Unit	2162
+occurrenceMoF	pH_5m	7.7		measurementValues which may need a measurementValueID or a Unit	2156
+occurrenceMoF	pH_0-1m	8.2		measurementValues which may need a measurementValueID or a Unit	2084
+occurrenceMoF	pH_10m	8.13		measurementValues which may need a measurementValueID or a Unit	1970
+occurrenceMoF	pH_0-1m	8.08		measurementValues which may need a measurementValueID or a Unit	1923
+occurrenceMoF	pH_10m	8.12		measurementValues which may need a measurementValueID or a Unit	1898
+occurrenceMoF	pH_5m	8.16		measurementValues which may need a measurementValueID or a Unit	1764
+occurrenceMoF	pH_0-1m	8.1		measurementValues which may need a measurementValueID or a Unit	1646
+occurrenceMoF	pH_5m	8.17		measurementValues which may need a measurementValueID or a Unit	1594
+occurrenceMoF	pH_10m	8.16		measurementValues which may need a measurementValueID or a Unit	1548
+occurrenceMoF	pH_0-1m	7.8		measurementValues which may need a measurementValueID or a Unit	1518
+occurrenceMoF	pH_10m	8.14		measurementValues which may need a measurementValueID or a Unit	1445
+occurrenceMoF	pH_10m	8.2		measurementValues which may need a measurementValueID or a Unit	1360
+occurrenceMoF	pH_0-1m	8.18		measurementValues which may need a measurementValueID or a Unit	1351
+occurrenceMoF	pH_10m	8.18		measurementValues which may need a measurementValueID or a Unit	1347
+occurrenceMoF	pH_0-1m	8.11		measurementValues which may need a measurementValueID or a Unit	1347
+occurrenceMoF	pH_5m	8.2		measurementValues which may need a measurementValueID or a Unit	1345
+occurrenceMoF	pH_0-1m	8.14		measurementValues which may need a measurementValueID or a Unit	1342
+occurrenceMoF	pH_5m	8.11		measurementValues which may need a measurementValueID or a Unit	1264
+occurrenceMoF	pH_0-1m	8.19		measurementValues which may need a measurementValueID or a Unit	1252
+occurrenceMoF	pH_0-1m	8.13		measurementValues which may need a measurementValueID or a Unit	1224
+occurrenceMoF	pH_5m	8.3		measurementValues which may need a measurementValueID or a Unit	1205
+occurrenceMoF	pH_0-1m	8.21		measurementValues which may need a measurementValueID or a Unit	1113
+occurrenceMoF	pH_0-1m	8.3		measurementValues which may need a measurementValueID or a Unit	1107
+occurrenceMoF	pH_10m	8.07		measurementValues which may need a measurementValueID or a Unit	1104
+occurrenceMoF	pH_5m	7.6		measurementValues which may need a measurementValueID or a Unit	1085
+occurrenceMoF	pH_10m	8.3		measurementValues which may need a measurementValueID or a Unit	1061
+occurrenceMoF	pH_5m	8.21		measurementValues which may need a measurementValueID or a Unit	1057
+occurrenceMoF	pH_5m	7.4		measurementValues which may need a measurementValueID or a Unit	1053
+occurrenceMoF	pH_10m	7.6		measurementValues which may need a measurementValueID or a Unit	996
+occurrenceMoF	pH_5m	7.8		measurementValues which may need a measurementValueID or a Unit	942
+occurrenceMoF	pH_5m	8.07		measurementValues which may need a measurementValueID or a Unit	928
+occurrenceMoF	pH_0-1m	7.7		measurementValues which may need a measurementValueID or a Unit	927
+occurrenceMoF	pH_0-1m	7.6		measurementValues which may need a measurementValueID or a Unit	911
+occurrenceMoF	pH_5m	8.14		measurementValues which may need a measurementValueID or a Unit	881
+occurrenceMoF	pH_5m	8.08		measurementValues which may need a measurementValueID or a Unit	875
+occurrenceMoF	pH_0-1m	7.5		measurementValues which may need a measurementValueID or a Unit	853
+occurrenceMoF	pH_0-1m	8.09		measurementValues which may need a measurementValueID or a Unit	811
+occurrenceMoF	pH_10m	8.06		measurementValues which may need a measurementValueID or a Unit	729
+occurrenceMoF	pH_0-1m	7.3		measurementValues which may need a measurementValueID or a Unit	726
+occurrenceMoF	pH_0-1m	8.12		measurementValues which may need a measurementValueID or a Unit	724
+occurrenceMoF	pH_10m	8.23		measurementValues which may need a measurementValueID or a Unit	715
+occurrenceMoF	pH_0-1m	8.16		measurementValues which may need a measurementValueID or a Unit	712
+occurrenceMoF	pH_10m	7.7		measurementValues which may need a measurementValueID or a Unit	699
+occurrenceMoF	pH_5m	8.06		measurementValues which may need a measurementValueID or a Unit	692
+occurrenceMoF	pH_5m	8.19		measurementValues which may need a measurementValueID or a Unit	691
+occurrenceMoF	pH_0-1m	7.89		measurementValues which may need a measurementValueID or a Unit	685
+occurrenceMoF	pH_0-1m	7.93		measurementValues which may need a measurementValueID or a Unit	664
+occurrenceMoF	pH_10m	7.94		measurementValues which may need a measurementValueID or a Unit	618
+occurrenceMoF	pH_5m	8.12		measurementValues which may need a measurementValueID or a Unit	594
+occurrenceMoF	pH_10m	8.04		measurementValues which may need a measurementValueID or a Unit	591
+occurrenceMoF	pH_0-1m	7.2		measurementValues which may need a measurementValueID or a Unit	574
+occurrenceMoF	pH_5m	8.32		measurementValues which may need a measurementValueID or a Unit	569
+occurrenceMoF	pH_0-1m	8.05		measurementValues which may need a measurementValueID or a Unit	521
+occurrenceMoF	pH_5m	8.05		measurementValues which may need a measurementValueID or a Unit	515
+occurrenceMoF	pH_10m	8.05		measurementValues which may need a measurementValueID or a Unit	504
+occurrenceMoF	pH_10m	8.11		measurementValues which may need a measurementValueID or a Unit	473
+occurrenceMoF	pH_5m	8.04		measurementValues which may need a measurementValueID or a Unit	461
+occurrenceMoF	pH_10m	8.08		measurementValues which may need a measurementValueID or a Unit	410
+occurrenceMoF	pH_5m	7.92		measurementValues which may need a measurementValueID or a Unit	394
+occurrenceMoF	pH_10m	7.92		measurementValues which may need a measurementValueID or a Unit	394
+occurrenceMoF	pH_10m	7.5		measurementValues which may need a measurementValueID or a Unit	387
+occurrenceMoF	pH_10m	8.44		measurementValues which may need a measurementValueID or a Unit	387
+occurrenceMoF	pH_5m	7.88		measurementValues which may need a measurementValueID or a Unit	383
+occurrenceMoF	pH_10m	7.88		measurementValues which may need a measurementValueID or a Unit	383
+occurrenceMoF	pH_10m	8.09		measurementValues which may need a measurementValueID or a Unit	369
+occurrenceMoF	pH_0-1m	8.42		measurementValues which may need a measurementValueID or a Unit	369
+occurrenceMoF	pH_5m	7.49		measurementValues which may need a measurementValueID or a Unit	343
+occurrenceMoF	pH_0-1m	6.95		measurementValues which may need a measurementValueID or a Unit	343
+occurrenceMoF	pH_0-1m	8.32		measurementValues which may need a measurementValueID or a Unit	336
+occurrenceMoF	pH_0-1m	7.1		measurementValues which may need a measurementValueID or a Unit	303
+occurrenceMoF	pH_5m	7.77		measurementValues which may need a measurementValueID or a Unit	298
+occurrenceMoF	pH_0-1m	7.65		measurementValues which may need a measurementValueID or a Unit	298
+occurrenceMoF	pH_10m	8.4		measurementValues which may need a measurementValueID or a Unit	295
+occurrenceMoF	pH_0-1m	8.4		measurementValues which may need a measurementValueID or a Unit	294
+occurrenceMoF	pH_5m	7.98		measurementValues which may need a measurementValueID or a Unit	282
+occurrenceMoF	pH_10m	8.22		measurementValues which may need a measurementValueID or a Unit	280
+occurrenceMoF	pH_10m	8.19		measurementValues which may need a measurementValueID or a Unit	278
+occurrenceMoF	pH_5m	7.94		measurementValues which may need a measurementValueID or a Unit	270
+occurrenceMoF	pH_5m	8.5		measurementValues which may need a measurementValueID or a Unit	265
+occurrenceMoF	pH_0-1m	8.5		measurementValues which may need a measurementValueID or a Unit	265
+occurrenceMoF	pH_5m	7.97		measurementValues which may need a measurementValueID or a Unit	260
+occurrenceMoF	pH_10m	8.01		measurementValues which may need a measurementValueID or a Unit	260
+occurrenceMoF	pH_0-1m	7.99		measurementValues which may need a measurementValueID or a Unit	260
+occurrenceMoF	pH_5m	7.78		measurementValues which may need a measurementValueID or a Unit	256
+occurrenceMoF	pH_10m	7.78		measurementValues which may need a measurementValueID or a Unit	256
+occurrenceMoF	pH_0-1m	7.78		measurementValues which may need a measurementValueID or a Unit	256
+occurrenceMoF	pH_5m	7.96		measurementValues which may need a measurementValueID or a Unit	252
+occurrenceMoF	pH_10m	7.97		measurementValues which may need a measurementValueID or a Unit	252
+occurrenceMoF	pH_0-1m	7.96		measurementValues which may need a measurementValueID or a Unit	252
+occurrenceMoF	pH_5m	8.24		measurementValues which may need a measurementValueID or a Unit	240
+occurrenceMoF	pH_0-1m	8.07		measurementValues which may need a measurementValueID or a Unit	240
+occurrenceMoF	pH_0-1m	8.26		measurementValues which may need a measurementValueID or a Unit	240
+occurrenceMoF	pH_5m	7.85		measurementValues which may need a measurementValueID or a Unit	235
+occurrenceMoF	pH_10m	7.84		measurementValues which may need a measurementValueID or a Unit	235
+occurrenceMoF	pH_0-1m	7.84		measurementValues which may need a measurementValueID or a Unit	235
+occurrenceMoF	pH_10m	8.29		measurementValues which may need a measurementValueID or a Unit	233
+occurrenceMoF	pH_0-1m	8.31		measurementValues which may need a measurementValueID or a Unit	233
+occurrenceMoF	pH_5m	8.59		measurementValues which may need a measurementValueID or a Unit	232
+occurrenceMoF	pH_10m	8.59		measurementValues which may need a measurementValueID or a Unit	232
+occurrenceMoF	pH_0-1m	8.6		measurementValues which may need a measurementValueID or a Unit	232
+occurrenceMoF	pH_10m	7.4		measurementValues which may need a measurementValueID or a Unit	228
+occurrenceMoF	pH_5m	7.68		measurementValues which may need a measurementValueID or a Unit	220
+occurrenceMoF	pH_10m	7.68		measurementValues which may need a measurementValueID or a Unit	220
+occurrenceMoF	pH_0-1m	7.18		measurementValues which may need a measurementValueID or a Unit	220
+occurrenceMoF	pH_5m	8.03		measurementValues which may need a measurementValueID or a Unit	215
+occurrenceMoF	pH_0-1m	8.06		measurementValues which may need a measurementValueID or a Unit	215
+occurrenceMoF	pH_5m	8.22		measurementValues which may need a measurementValueID or a Unit	210
+occurrenceMoF	pH_10m	8.24		measurementValues which may need a measurementValueID or a Unit	210
+occurrenceMoF	pH_0-1m	8.23		measurementValues which may need a measurementValueID or a Unit	210
+occurrenceMoF	pH_5m	8.45		measurementValues which may need a measurementValueID or a Unit	199
+occurrenceMoF	pH_0-1m	8.46		measurementValues which may need a measurementValueID or a Unit	199
+occurrenceMoF	pH_5m	8.44		measurementValues which may need a measurementValueID or a Unit	188
+occurrenceMoF	pH_5m	8.28		measurementValues which may need a measurementValueID or a Unit	184
+occurrenceMoF	pH_10m	8.28		measurementValues which may need a measurementValueID or a Unit	184
+occurrenceMoF	pH_0-1m	8.29		measurementValues which may need a measurementValueID or a Unit	184
+occurrenceMoF	pH_5m	8.43		measurementValues which may need a measurementValueID or a Unit	181
+occurrenceMoF	pH_5m	8.4		measurementValues which may need a measurementValueID or a Unit	156
+occurrenceMoF	pH_5m	7.87		measurementValues which may need a measurementValueID or a Unit	155
+occurrenceMoF	pH_10m	7.87		measurementValues which may need a measurementValueID or a Unit	155
+occurrenceMoF	pH_0-1m	7.87		measurementValues which may need a measurementValueID or a Unit	155
+occurrenceMoF	pH_5m	8.23		measurementValues which may need a measurementValueID or a Unit	139
+occurrenceMoF	pH_0-1m	8.22		measurementValues which may need a measurementValueID or a Unit	139
+occurrenceMoF	pH_5m	8.25		measurementValues which may need a measurementValueID or a Unit	134
+occurrenceMoF	pH_0-1m	8.27		measurementValues which may need a measurementValueID or a Unit	134
