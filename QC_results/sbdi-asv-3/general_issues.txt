@@ -1,0 +1,6 @@
+field	message	count	table
+measurementType	No sampling descriptors/effort present	1	emof
+measurementType	No sampling instrument present	1	emof
+occurrenceStatus	Required field occurrenceStatus is missing	1	occurrence
+occurrence_error	Potential duplicate record	2057	occurrence
+scientificNameID	Required field scientificNameID is missing	1	occurrence
