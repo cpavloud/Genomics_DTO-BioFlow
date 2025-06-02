@@ -1,0 +1,5 @@
+IDlink	measurementType	measurementUnit	message	count
+occurrenceMoF	salinity	psu	measurementTypeID is missing	6489
+occurrenceMoF	temperature	?C	measurementTypeID is missing	6489
+occurrenceMoF	temperature	?C	measurementUnits which may need a measurementUnitID	6489
+occurrenceMoF	salinity	psu	measurementUnits which may need a measurementUnitID	6489
