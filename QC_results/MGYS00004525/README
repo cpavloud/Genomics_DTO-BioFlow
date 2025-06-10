@@ -1,0 +1,3 @@
+There was an issue in line 6099 of the occurrence.txt table and the file could not be loaded into R properly.
+
+The issue was a "#", when replaced with "_" the table was loaded into R successfully.
