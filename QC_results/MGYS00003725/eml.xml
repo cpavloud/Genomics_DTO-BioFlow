@@ -1,0 +1,103 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+    packageId="84d26682-f762-11e1-a439-00145eb45e9a/v9.3" system="http://gbif.org" scope="system"
+    xml:lang="en">
+<dataset>
+<title xml:lang="en">Arctic microbiome along Svalbard Cross Shelf transects</title>
+
+<creator>
+<organizationName>CIIMAR - Interdisciplinary Centre of Marine and Environmental Research</organizationName>
+<address>
+    <deliveryPoint></deliveryPoint>
+    <city></city>
+    <postalCode></postalCode>
+    <country>undefined</country>
+</address>
+<phone></phone>
+</creator>
+
+<metadataProvider>
+<organizationName>CIIMAR - Interdisciplinary Centre of Marine and Environmental Research</organizationName>
+<address>
+    <deliveryPoint></deliveryPoint>
+    <city></city>
+    <postalCode></postalCode>
+    <country>undefined</country>
+</address>
+<phone></phone>
+</metadataProvider>
+
+<pubDate>
+ 2021-12-03T14:29:43
+</pubDate>
+<language>en</language>
+<abstract>
+     <para>Global worming and climate change has been manifested in the decrease of the Arctic Ocean see ice extent and thickness. The thinner sea-ice regime that the Arctic has been facing changed Arctics primary productivity and biogeochemistry. Understand the dynamics of the microbial communities that feed Arctic phytoplankton and biologically derived carbon export will be worthwhile in order to draw future trends. In this study we present a comprehensive analysis of the biogeographic patters of Arctic microbiome diversity and distribution along two oceanographic transects in the Marginal Ice Zone around Svalbard, within strong environmental gradients (Ripfjorden, Kongsfjorden). A total of 11 stations were sample at three depths (surface, chlorophyll maximum and bottom) during the Norwegian Polar Institute MOSJ-ICE 2016 plankton-monitoring program. Samples were concentrated on board through Sterivex 0.2 mm filtration and preserved at -80oC for later DNA extraction. Amplification of 16S rRNA and 18S rRNA genes were performed and sequenced in Illumina MiSeq with a sequence depth of about 100 thousand readpairs. The prokaryotic and eukaryotic MOSJ-ICE16 data sets collection comprises highly complex and diverse microbial communities with a marked biogeographic pattern of distribution. Strong links were identified between bacterioplanckton and phytoplankton/picophytoplankton distribution driven by environmental and biogeochemical forces, most relevant to unravel the role of microbial pathways in supporting Arctic Ocean Primary productivity and system integrity.</para>
+</abstract>
+<keywordSet>
+       <keyword>Metagenomics</keyword>
+       <keyword>environmental genomics</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+</keywordSet>
+
+<intellectualRights>
+<para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY) 4.0 License</citetitle></ulink>.</para>
+</intellectualRights>
+<distribution scope="document">
+<online>
+ <url function="information">https://www.ebi.ac.uk/metagenomics/studies/MGYS00003725</url>
+</online>
+</distribution>
+
+<maintenance>
+<description>
+ <para></para>
+</description>
+<maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+</maintenance>
+
+ <contact>
+ <organizationName>CIIMAR - Interdisciplinary Centre of Marine and Environmental Research</organizationName>
+<address>
+    <deliveryPoint></deliveryPoint>
+    <city></city>
+    <postalCode></postalCode>
+    <country>undefined</country>
+</address>
+<phone></phone>
+
+ </contact>
+<methods>
+   <methodStep>
+     <description>
+       <para>Pipeline used: https://www.ebi.ac.uk/metagenomics/pipelines/5.0</para>
+     </description>
+   </methodStep>
+ <sampling>
+
+   <samplingDescription>
+     <para>
+     Global worming and climate change has been manifested in the decrease of the Arctic Ocean see ice extent and thickness. The thinner sea-ice regime that the Arctic has been facing changed Arctics primary productivity and biogeochemistry. Understand the dynamics of the microbial communities that feed Arctic phytoplankton and biologically derived carbon export will be worthwhile in order to draw future trends. In this study we present a comprehensive analysis of the biogeographic patters of Arctic microbiome diversity and distribution along two oceanographic transects in the Marginal Ice Zone around Svalbard, within strong environmental gradients (Ripfjorden, Kongsfjorden). A total of 11 stations were sample at three depths (surface, chlorophyll maximum and bottom) during the Norwegian Polar Institute MOSJ-ICE 2016 plankton-monitoring program. Samples were concentrated on board through Sterivex 0.2 mm filtration and preserved at -80oC for later DNA extraction. Amplification of 16S rRNA and 18S rRNA genes were performed and sequenced in Illumina MiSeq with a sequence depth of about 100 thousand readpairs. The prokaryotic and eukaryotic MOSJ-ICE16 data sets collection comprises highly complex and diverse microbial communities with a marked biogeographic pattern of distribution. Strong links were identified between bacterioplanckton and phytoplankton/picophytoplankton distribution driven by environmental and biogeochemical forces, most relevant to unravel the role of microbial pathways in supporting Arctic Ocean Primary productivity and system integrity.
+     </para>
+   </samplingDescription>
+ </sampling>
+ 
+</methods>
+<project >
+<title>Arctic microbiome along Svalbard Cross Shelf transects</title>
+
+</project>
+</dataset>
+<additionalMetadata>
+<metadata>
+<gbif>
+<bibliography>     
+    
+  </bibliography>
+</gbif>
+
+</metadata>
+</additionalMetadata>
+</eml:eml>

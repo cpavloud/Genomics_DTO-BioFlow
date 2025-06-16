@@ -1,0 +1,103 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+    packageId="84d26682-f762-11e1-a439-00145eb45e9a/v9.3" system="http://gbif.org" scope="system"
+    xml:lang="en">
+<dataset>
+<title xml:lang="en">16s data marine community of L4 station</title>
+
+<creator>
+<organizationName>UPPSALA UNIVERSITY, IEG, LIMNOLOGY</organizationName>
+<address>
+    <deliveryPoint></deliveryPoint>
+    <city></city>
+    <postalCode></postalCode>
+    <country>undefined</country>
+</address>
+<phone></phone>
+</creator>
+
+<metadataProvider>
+<organizationName>UPPSALA UNIVERSITY, IEG, LIMNOLOGY</organizationName>
+<address>
+    <deliveryPoint></deliveryPoint>
+    <city></city>
+    <postalCode></postalCode>
+    <country>undefined</country>
+</address>
+<phone></phone>
+</metadataProvider>
+
+<pubDate>
+ 2019-04-05T12:22:19
+</pubDate>
+<language>en</language>
+<abstract>
+     <para>We collected monthly water samples at the L4 station of the Western Channel Observatory. The prokaryote community composition was determined by sequencing of the 16s rRNA gene using the illumina platform.</para>
+</abstract>
+<keywordSet>
+       <keyword>Metagenomics</keyword>
+       <keyword>environmental genomics</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+</keywordSet>
+
+<intellectualRights>
+<para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY) 4.0 License</citetitle></ulink>.</para>
+</intellectualRights>
+<distribution scope="document">
+<online>
+ <url function="information">https://www.ebi.ac.uk/metagenomics/studies/MGYS00003999</url>
+</online>
+</distribution>
+
+<maintenance>
+<description>
+ <para></para>
+</description>
+<maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+</maintenance>
+
+ <contact>
+ <organizationName>UPPSALA UNIVERSITY, IEG, LIMNOLOGY</organizationName>
+<address>
+    <deliveryPoint></deliveryPoint>
+    <city></city>
+    <postalCode></postalCode>
+    <country>undefined</country>
+</address>
+<phone></phone>
+
+ </contact>
+<methods>
+   <methodStep>
+     <description>
+       <para>Pipeline used: https://www.ebi.ac.uk/metagenomics/pipelines/4.1</para>
+     </description>
+   </methodStep>
+ <sampling>
+
+   <samplingDescription>
+     <para>
+     We collected monthly water samples at the L4 station of the Western Channel Observatory. The prokaryote community composition was determined by sequencing of the 16s rRNA gene using the illumina platform.
+     </para>
+   </samplingDescription>
+ </sampling>
+ 
+</methods>
+<project >
+<title>16s data marine community of L4 station</title>
+
+</project>
+</dataset>
+<additionalMetadata>
+<metadata>
+<gbif>
+<bibliography>     
+    <citation identifier="DOI:10.1016/j.margen.2016.09.001">Lebret K, Schroeder J, Balestreri C, Highfield A, Cummings D, Smyth T, Schroeder D. 2016. Choice of molecular barcode will affect species prevalence but not bacterial community composition. Mar Genomics vol. 29</citation>
+  </bibliography>
+</gbif>
+
+</metadata>
+</additionalMetadata>
+</eml:eml>

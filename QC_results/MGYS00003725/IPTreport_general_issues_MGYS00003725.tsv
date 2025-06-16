@@ -1,0 +1,8 @@
+field	message	count	table
+datasetName	Required field datasetName is missing	1	event
+institutionCode	Required field institutionCode is missing	1	event
+maximumDepthInMeters	Empty value for recommended field maximumDepthInMeters	66	event
+minimumDepthInMeters	Empty value for recommended field minimumDepthInMeters	66	event
+occurrenceStatus	Required field occurrenceStatus is missing	1	occurrence
+occurrence_error	Potential duplicate record	46	occurrence
+scientificNameID	Required field scientificNameID is missing	1	occurrence
