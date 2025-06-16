@@ -1,0 +1,18 @@
+field	message	count	table
+datasetName	Required field datasetName is missing	1	event
+institutionCode	Required field institutionCode is missing	1	event
+eventID	eventID MGYA00355345 has no corresponding eventID in the core	810	occurrence
+eventID	eventID MGYA00355341 has no corresponding eventID in the core	790	occurrence
+eventID	eventID MGYA00355344 has no corresponding eventID in the core	768	occurrence
+eventID	eventID MGYA00355336 has no corresponding eventID in the core	654	occurrence
+eventID	eventID MGYA00355343 has no corresponding eventID in the core	620	occurrence
+eventID	eventID MGYA00355335 has no corresponding eventID in the core	588	occurrence
+eventID	eventID MGYA00355334 has no corresponding eventID in the core	586	occurrence
+eventID	eventID MGYA00355338 has no corresponding eventID in the core	548	occurrence
+eventID	eventID MGYA00355342 has no corresponding eventID in the core	528	occurrence
+eventID	eventID MGYA00355340 has no corresponding eventID in the core	450	occurrence
+eventID	eventID MGYA00355339 has no corresponding eventID in the core	398	occurrence
+eventID	eventID MGYA00355337 has no corresponding eventID in the core	164	occurrence
+occurrenceStatus	Required field occurrenceStatus is missing	1	occurrence
+occurrence_error	Potential duplicate record	64	occurrence
+scientificNameID	Required field scientificNameID is missing	1	occurrence
