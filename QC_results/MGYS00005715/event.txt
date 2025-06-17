@@ -1,0 +1,3 @@
+MGYA00582303,,Arctic picoeukaryotes,,,,,,,"{""ENA checklist"":""ERC000011""}",18714,DNA sequence reads,https://www.ebi.ac.uk/metagenomics/samples/ERS950967,,
+MGYA00582304,,Arctic picoeukaryotes,,,,,,,"{""ENA checklist"":""ERC000011""}",16679,DNA sequence reads,https://www.ebi.ac.uk/metagenomics/samples/ERS950969,,
+MGYA00582305,,Arctic picoeukaryotes,,,,,,,"{""ENA checklist"":""ERC000011""}",27297,DNA sequence reads,https://www.ebi.ac.uk/metagenomics/samples/ERS950970,,
