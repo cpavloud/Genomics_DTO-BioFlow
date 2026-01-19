@@ -2,9 +2,9 @@ Dataset title	Dataset status	EMODnet QC check passed and DwC standards of EMODne
 Marine v2.0 catalogue					https://www.ebi.ac.uk/metagenomics/genome-catalogues/marine-v2-0	ΝΑ	ΝΑ	MGnify
 ARMS Jeddah sample Raw sequence reads	Raw dataset				https://www.ebi.ac.uk/ena/browser/view/PRJNA308164	ΝΑ	ΝΑ	ENA
 ARMS Jeddah sample Raw sequence reads	Dataset published in GBIF by MGnify				https://www.ebi.ac.uk/metagenomics/studies/MGYS00004404 	https://www.gbif.org/dataset/7bb358e4-6067-42f1-a3e3-7471dd854ce0	ΝΑ	MGnify
-ARMS-MBON data on long-term monitoring of hard-bottom communities: COI results from 2018-2020
-ARMS-MBON data on long-term monitoring of hard-bottom communities: 18S results from 2018-2020
-ARMS-MBON data on long-term monitoring of hard-bottom communities: ITS results from 2018-2020
+ARMS-MBON data on long-term monitoring of hard-bottom communities: COI results from 2018-2020          
+ARMS-MBON data on long-term monitoring of hard-bottom communities: 18S results from 2018-2020          
+ARMS-MBON data on long-term monitoring of hard-bottom communities: ITS results from 2018-2020          
 Data from water, plankton and ARMS samples	Dataset published in GBIF by the University of Gothenburg	QC check not passed/Data provider cannot make the necessary changes	No		https://www.ebi.ac.uk/ena/browser/view/PRJEB60147	https://www.gbif.se/ipt/resource?r=gu-2022-wallhamn-coi	ΝΑ	ENA/SBDI ASV portal
 Data from water, plankton and ARMS samples	Dataset published in GBIF by the University of Gothenburg	QC check not passed/Data provider cannot make the necessary changes	No		https://www.ebi.ac.uk/ena/browser/view/PRJEB60147	https://www.gbif.se/ipt/resource?r=gu-2022-wallhamn-18s	ΝΑ	ENA/SBDI ASV portal
 eDNA data collected in Suva, Fiji by the PacMAN project	Dataset published in OBIS by the Southwestern Pacific OBIS Node - https://nzobisipt.niwa.co.nz/resource?r=pacman_suva_edna	QC check not passed	No		ΝΑ	ΝΑ	https://obis.org/dataset/bbc947ad-48c0-4235-8398-3c92f0fc994a	OBIS
