@@ -1,0 +1,6 @@
+field	message	count	table
+pcr_primer_reference	Highly recommended field 'pcr_primer_reference' is missing	1	dna
+datasetName	datasetName is slightly different from the title of the IPT resource	1	occurrence
+occurrenceStatus	Required field occurrenceStatus is missing	1	occurrence
+occurrence_error	Potential duplicate record	90766	occurrence
+scientificNameID	Required field scientificNameID is missing	1	occurrence
